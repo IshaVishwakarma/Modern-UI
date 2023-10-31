@@ -175,21 +175,21 @@ height: fit-content;
 #onespan{
     width: 80px;
     height: 50px;
-    background-image: url(img/bluegirl.jpg);
+    background-image: url(./img/bluegirl.jpg);
     background-size: cover;
     background-position: 0% 60%;
 }
 #twospan{
     width: 130px;
     height: 60px;
-    background-image: url(img/shaljam.jpg);
+    background-image: url(./img/shaljam.jpg);
     background-size: cover;
     background-position: 0% 48%;
 }
 #threespan{
     width: 80px;
     height: 50px;
-    background-image: url(img/grass.jpg);
+    background-image: url(./img/grass.jpg);
     background-size: cover;
     background-position: 0% 50%;
 }
